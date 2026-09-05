@@ -258,3 +258,6 @@ https://cooksleep.github.io/gpt_image_playground?apiUrl={address}&apiKey={key}
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CookSleep/gpt_image_playground&type=Date)](https://www.star-history.com/#CookSleep/gpt_image_playground&Date)
+
+
+<!-- Security scan triggered at 2026-09-05 07:39:24 -->
